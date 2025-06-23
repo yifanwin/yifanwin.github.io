@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Yifan Wen, an undergraduate student majoring in Computer Science and Technology at Shandong University
+I am Yifan Wen, an undergraduate student majoring in CS at Shandong University
 
