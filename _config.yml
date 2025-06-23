@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Yifan Wen"
   pronouns         : # example: "she/her"  
-  bio              : # "An undergraduate student majoring in CS"
-  location         : "Earth"
-  employer         : "Shandong University"
+  bio              : "Shandong University"
+  location         : "China"
+  employer         : #"Shandong University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
